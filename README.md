@@ -14,7 +14,7 @@ A Model Context Protocol (MCP) server that provides access to FORGE 3D Gaussian 
 
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/angrypenguinpng/forge_docs_mcp_server.git
    cd forge_docs_mcp
    ```
 
